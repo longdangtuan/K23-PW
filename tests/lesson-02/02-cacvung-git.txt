@@ -1,0 +1,6 @@
+-a: local
+-b: working directory/untracked
+-c: file1, file2, file3 ở working directory/untracked, vì chưa được đưa vào staged
+-d: file1 ở staged, file2, file3 ở working directory/untracked
+-e: file 1 ở committed/repo, file2, file3 ở working directory/untracked
+-f: file 1 ở committed/repo, file2, file3 ở working directory/untracked

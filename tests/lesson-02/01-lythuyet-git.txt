@@ -1,0 +1,4 @@
+- git init: khởi tạo repo
+- git add <file_name>: Thêm file vào staged
+- git add .: Thêm tất cả file vào staged
+- git commit -m "message": Thêm tất cả file ở vùng staged vào committed với message
