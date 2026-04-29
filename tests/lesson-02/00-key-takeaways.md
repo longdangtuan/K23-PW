@@ -1,4 +1,4 @@
-#Git
+# Git
 
 - Git init: Khởi tạo git repository
 - Working directory/Untracked: Các file mới hoặc có thay đổi
