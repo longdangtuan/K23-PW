@@ -4,3 +4,9 @@ let isEven = false;
 if (number % 2 === 0) {
   isEven = true;
 }
+console.log(typeof number);
+console.log(typeof name);
+console.log(typeof isEven);
+
+
+
