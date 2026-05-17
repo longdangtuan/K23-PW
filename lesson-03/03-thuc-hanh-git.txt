@@ -1,0 +1,20 @@
+a. Local
+- Working directory
+- Staging
+- Repository
+b. Local: 
+- Working directory: file1.txt, file2.txt, oops/file3.txt
+- Staging
+- Repository
+c.Local: 
+- Working directory: file1.txt, file2.txt, oops/file3.txt
+- Staging
+- Repository
+d.Local: 
+- Working directory: file1.txt, oops/file3.txt
+- Staging:file2.txt
+- Repository
+e.Local: 
+- Working directory: file1.txt, oops/file3.txt
+- Staging:
+- Repository: file2.txt

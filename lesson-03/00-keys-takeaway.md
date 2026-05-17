@@ -1,0 +1,6 @@
+# GIT
+
+- git commit --amend: modify last commit message
+- git commit --amend -m"<message>": modify last commit message
+- git restore --staged <file>: restore file from staged area to working/untracked area
+- git reset HEAD~1: undo the most recent commit
