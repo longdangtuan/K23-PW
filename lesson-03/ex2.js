@@ -13,5 +13,5 @@ Cân nặng tối đa của bạn là: ${maxWeight}\n
 Cân nặng tối thiểu của bạn là: ${minWeight}`,
   );
 } else {
-  `Chiều cao không phù hợp với phương pháp tính toán này`;
+  console.log(`Chiều cao không phù hợp với phương pháp tính toán này`);
 }
